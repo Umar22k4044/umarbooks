@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/umarbooks/static/css/main.b2cdf29c.css",
+    "main.js": "/umarbooks/static/js/main.ec4289d2.js",
+    "static/js/453.62f06b5e.chunk.js": "/umarbooks/static/js/453.62f06b5e.chunk.js",
+    "index.html": "/umarbooks/index.html",
+    "main.b2cdf29c.css.map": "/umarbooks/static/css/main.b2cdf29c.css.map",
+    "main.ec4289d2.js.map": "/umarbooks/static/js/main.ec4289d2.js.map",
+    "453.62f06b5e.chunk.js.map": "/umarbooks/static/js/453.62f06b5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2cdf29c.css",
+    "static/js/main.ec4289d2.js"
+  ]
+}
